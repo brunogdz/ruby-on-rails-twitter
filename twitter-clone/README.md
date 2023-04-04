@@ -8,6 +8,11 @@ sudo -u postgres -i
 
 ### Run it
 
+./bin/dev
+
+### User test   
+
+test@gmail.com
 
 
 This README would normally document whatever steps are necessary to get the
